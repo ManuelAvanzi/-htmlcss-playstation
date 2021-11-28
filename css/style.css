@@ -7,6 +7,9 @@
 .bg-orange{
     background-color: orangered;
 }
+.bg-blue{
+    background-color: slateblue;
+}
 
 
 
@@ -15,7 +18,12 @@
 .tx-white{
     color:white;
 }
-
+.tx-blue{
+    color:royalblue;
+}
+.tx-grey{
+    color:grey;
+}
 
 
 
@@ -63,3 +71,14 @@
 .game_album{
     border-radius: 10px;
 }
+
+
+
+/* ------------------SECTION-2--------- */
+.p-5{
+    padding:6rem!important;
+}
+.box_1_ps5{
+    margin-top: 130px !important;
+}
+
