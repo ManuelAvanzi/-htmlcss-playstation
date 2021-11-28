@@ -1,8 +1,20 @@
-.white{
+.bg-white{
     background-color:#fff;
 }
-.black{
+.bg-black{
     background-color: #000;
+}
+.bg-orange{
+    background-color: orangered;
+}
+.tx-white{
+    color:white;
+}
+
+.btn{
+    border-radius: 20px;
+    padding: 5px 10px;
+    border: none;
 }
 
 
@@ -22,3 +34,19 @@
 
 }
 /* ---------------navbar-------------- */
+
+
+
+
+
+/* -----------------jumbotron------------- */
+.jumbo{
+    height: 500px;
+    background-image: url("jumbo-bg.png");  
+    object-fit: cover;
+    background-position: center; 
+}
+.text_logo_returnal{
+    width: 200px;
+    padding-top: 70px;
+}
