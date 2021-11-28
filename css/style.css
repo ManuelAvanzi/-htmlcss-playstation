@@ -82,3 +82,23 @@
     margin-top: 130px !important;
 }
 
+/* ----------------SECTION 4 (CAROUSEL)---------------- */
+.flex{
+    display: flex;
+}
+.js-center{
+    display: flex;
+    justify-content: center;
+}
+.section-100-width {
+    width: 100%;
+}
+.section-100-width:hover{
+    opacity: 0.7;
+    transition: all 0.7s;
+}
+.font-size {
+    font-size: 12px;
+}
+
+
