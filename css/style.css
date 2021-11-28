@@ -1,0 +1,24 @@
+.white{
+    background-color:#fff;
+}
+.black{
+    background-color: #000;
+}
+
+
+
+
+
+/* ----black bar logo sony--- */
+.ms_header-logo-sony {
+    position: relative;
+    height: 25px;
+}
+.ms_header-logo-sony img {
+    position: absolute;
+    right: 10px;
+    top: 25%;
+    height: 50%;
+
+}
+/* ---------------navbar-------------- */
