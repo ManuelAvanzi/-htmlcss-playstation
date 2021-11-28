@@ -7,9 +7,17 @@
 .bg-orange{
     background-color: orangered;
 }
+
+
+
+
+
 .tx-white{
     color:white;
 }
+
+
+
 
 .btn{
     border-radius: 20px;
@@ -49,4 +57,9 @@
 .text_logo_returnal{
     width: 200px;
     padding-top: 70px;
+}
+
+/* ----------------SECTION 1 ALBUM GAMES--------- */
+.game_album{
+    border-radius: 10px;
 }
