@@ -13,7 +13,9 @@
 .bg-dark-grey{
     background-color: #1f1f1f;
 }
-
+.bg-grey-plus {
+    background-color: #bebcbb;
+}
 
 
 
@@ -34,10 +36,6 @@
     border-radius: 20px;
     padding: 5px 10px;
     border: none;
-}
-
-.btn{
-    border-radius:40px;
     border-width: 2px;
 }
 .btn:hover{
@@ -48,7 +46,10 @@
     background-color: #2d64e6;
     color: #fff;
 }
-
+.btn-white{
+    background-color: white;
+    color:black;
+}
 
 
 .width-100 {
@@ -88,14 +89,14 @@
     padding-top: 70px;
 }
 
-/* ----------------SECTION 1 ALBUM GAMES--------- */
+/* ------------------SECTION 1 ALBUM GAMES--------- */
 .game_album{
     border-radius: 10px;
 }
 
 
 
-/* ---------------SECTION-2--------- */
+/* ---------------------SECTION-2--------------------- */
 .p-5{
     padding:6rem!important;
 }
@@ -144,3 +145,35 @@
 
 
 /* ----------------------SECTION-6--(esplora playstation 4)--------- */
+
+
+
+/* -------------------------SECTION-7--(playstation-sette)----------------- */
+.ms_plus-bg p {
+    margin: 30px 0;
+}
+.section7-img{
+    width: 250px;
+}
+.section7-button {
+    border: 2px solid #d9dadc;
+}
+.section7-button:hover {
+    border: 2px solid #fff;
+    color: white;
+    transition: all 0.1s;
+}
+
+
+/* ----------------------SECTION-8--(nuovi sconti)--------- */
+.jumbo-3{
+    background-color: #161c3b;
+}
+.jumbo-3 p{
+    font-size: 20px;
+    color:white;
+}
+.play-logo{
+    margin:40px 0;
+    width: 200px;
+}
