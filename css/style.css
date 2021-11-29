@@ -10,6 +10,9 @@
 .bg-blue{
     background-color: slateblue;
 }
+.bg-dark-grey{
+    background-color: #1f1f1f;
+}
 
 
 
@@ -33,11 +36,29 @@
     border: none;
 }
 
+.btn{
+    border-radius:40px;
+    border-width: 2px;
+}
+.btn:hover{
+    box-shadow: inset 0 0 0 5px black;
+}
+
+.btn-blue{
+    background-color: #2d64e6;
+    color: #fff;
+}
+
+
+
+.width-100 {
+    width: 100%;
+}
 
 
 
 
-/* ----black bar logo sony--- */
+/* -----------------TOP BAR LOGO SONY--- */
 .ms_header-logo-sony {
     position: relative;
     height: 25px;
@@ -49,18 +70,18 @@
     height: 50%;
 
 }
-/* ---------------navbar-------------- */
+/* ------------------NAVBAR-------------- */
 
 
 
 
 
-/* -----------------jumbotron------------- */
-.jumbo{
+/* -----------------JUMBOTRON------------- */
+.jumbo-1{
     height: 500px;
-    background-image: url("jumbo-bg.png");  
-    object-fit: cover;
-    background-position: center; 
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center center;
+    background-size: cover;
 }
 .text_logo_returnal{
     width: 200px;
@@ -74,7 +95,7 @@
 
 
 
-/* ------------------SECTION-2--------- */
+/* ---------------SECTION-2--------- */
 .p-5{
     padding:6rem!important;
 }
@@ -82,7 +103,7 @@
     margin-top: 130px !important;
 }
 
-/* ----------------SECTION 4 (CAROUSEL)---------------- */
+/* ----------------SECTION 3 (carousel)---------------- */
 .flex{
     display: flex;
 }
@@ -90,9 +111,7 @@
     display: flex;
     justify-content: center;
 }
-.section-100-width {
-    width: 100%;
-}
+
 .section-100-width:hover{
     opacity: 0.7;
     transition: all 0.7s;
@@ -101,4 +120,27 @@
     font-size: 12px;
 }
 
+/* -----------------SECTION-4-(it takes two)-------------------- */
+.jumbo-2{
+    height: 700px;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    
+    object-fit: cover;
+    background-position: center center; 
+}
 
+.text-logo-it-takes-two{
+    width: 400px;
+    padding-top: 70px;
+}
+
+/* ------------------SECTION-5--(nuove uscite)----------------- */
+
+
+
+
+
+
+
+
+/* ----------------------SECTION-6--(esplora playstation 4)--------- */
