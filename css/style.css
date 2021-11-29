@@ -181,3 +181,18 @@
 /* ----------------------SECTION-9--(social media)------------- */
 
 
+/* -------------------------SECTION 10-(footer)---------------- */
+
+.bg-footer {
+    background-color: #2d64e6;
+    color: #fff;
+}
+.footer-ps-logo {
+    width: 80px;
+}
+.bg-footer ul{
+    list-style: none;
+}
+.country-img{
+    width: 10px;
+}
